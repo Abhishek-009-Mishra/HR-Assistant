@@ -1,0 +1,25 @@
+PYTHON DEVELOPER JOB DESCRIPTION
+ 
+Job Title:
+Python Developer
+ 
+Required Skills:
+- Python
+- SQL
+- Git
+ 
+Preferred Skills:
+- Django
+- FastAPI
+- Docker
+- REST APIs
+ 
+Responsibilities:
+- Develop and maintain Python applications.
+- Write efficient and reusable code.
+- Design and consume REST APIs.
+- Collaborate with cross-functional teams.
+- Debug and troubleshoot software issues.
+ 
+Experience Requirements:
+- Minimum 2 years of Python development experience.
