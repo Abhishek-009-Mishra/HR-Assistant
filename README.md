@@ -1,4 +1,4 @@
-# HR Assist
+# HR Assistant
  
 A local, tool-using HR recruitment assistant built with [LangChain](https://python.langchain.com/) and [Ollama](https://ollama.com/). It answers company policy questions using retrieval-augmented generation (RAG) over your HR documents, extracts structured candidate details from resumes, checks candidate eligibility, and generates interview questions — all running on a local LLM, no external API keys required.
  
